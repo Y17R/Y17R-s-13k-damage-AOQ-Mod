@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y17R's 13k damage", "Y17R's 13k damage.csproj", "{C64B257D-40C0-4B1C-9E12-B2547AAABC74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64B257D-40C0-4B1C-9E12-B2547AAABC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64B257D-40C0-4B1C-9E12-B2547AAABC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64B257D-40C0-4B1C-9E12-B2547AAABC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64B257D-40C0-4B1C-9E12-B2547AAABC74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7977CC01-E6FB-408C-AF33-5C11141ABA61}
+	EndGlobalSection
+EndGlobal
